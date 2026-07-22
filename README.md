@@ -3,17 +3,11 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=0x1R15%20(Shreya)&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Iris%20here!%20%F0%9F%94%A5&descAlignY=52&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%90+Security+Researcher+%7C+CTF+Player;%F0%9F%8C%90+Web+Security+Enthusiast;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Lil+L3ak+%7C+GODSEC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&duration=3000&pause=1000&color=C9A0FF&center=true&vCenter=true&width=650&lines=Security+Researcher+%7C+CTF+Player;Web+Security+Enthusiast;Lil+L3ak+%7C+GODSEC" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🔥 0x1R15 says hi 💜
-
-</div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0x1R15.github.io-C9A0FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0x1r15.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-@shreyawaghmare005-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreyawaghmare005)
@@ -27,7 +21,7 @@ I'm **Shreya Waghmare**, a **final-year B.E. student in CSE with Honours in Cybe
 
 My primary focus is on **web security** and **security research** — I enjoy uncovering vulnerabilities, understanding how systems break, and figuring out how to defend them better.
 
-I'm an active **CTF player** and compete as a member of **Lil L3ak** 🏴‍☠️ and **GODSEC** 🛡️, constantly sharpening my skills across offensive security domains through competitive challenges and hands-on practice.
+I'm an active **CTF player** and compete as a member of **Lil L3ak** and **GODSEC**, constantly sharpening my skills across offensive security domains through competitive challenges and hands-on practice.
 
 ---
 
@@ -52,8 +46,8 @@ I'm an active **CTF player** and compete as a member of **Lil L3ak** 🏴‍☠�
 
 | Team | Role |
 |:---:|:---:|
-| 🏴‍☠️ **Lil L3ak** | Member |
-| 🛡️ **GODSEC** | Member |
+| **Lil L3ak** | Member |
+| **GODSEC** | Member |
 
 </div>
 
