@@ -66,15 +66,7 @@ I'm an active **CTF player** and compete as a member of **Lil L3ak** and **GODSE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x1R15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9A0FF&icon_color=C9A0FF&text_color=FFFFFF&ring_color=C9A0FF" alt="GitHub Stats" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0x1R15&theme=radical&hide_border=true&background=0D1117&ring=C9A0FF&fire=FF6B6B&currStreakLabel=C9A0FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1R15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9A0FF&text_color=FFFFFF" alt="Top Languages" height="160" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x1R15&theme=radical&hide_border=true&background=0D1117&ring=C9A0FF&fire=FF6B6B&currStreakLabel=C9A0FF&sideLabels=FFFFFF&dates=888888)](https://github.com/0x1R15)
 
 </div>
 
