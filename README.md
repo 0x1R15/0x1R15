@@ -25,16 +25,25 @@ I'm an active **CTF player** and compete as a member of **Lil L3ak** and **GODSE
 
 ---
 
-## 🛠️ Skills & Interests
+## Tech Stack
 
 <div align="center">
 
-| Domain | Focus |
-|:---:|:---|
-| 🌐 **Web Security** | OWASP Top 10, API Security, Server-Side Attacks |
-| 🔍 **Security Research** | Vulnerability Analysis, Exploit Development |
-| 🏁 **CTF Competitions** | Web, Crypto, Misc Challenges |
-| 🔐 **Cybersecurity** | Offensive Security, Penetration Testing |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-A855F7?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -76,6 +85,16 @@ I'm an active **CTF player** and compete as a member of **Lil L3ak** and **GODSE
 <!-- BLOG-POST-LIST:START -->
 Check out my latest writeups and research on [Medium](https://medium.com/@shreyawaghmare005) ✨
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x1R15&bg_color=0D1117&color=C9A0FF&line=C9A0FF&point=ffffff&area=true&hide_border=true)](https://github.com/0x1R15)
+
+</div>
 
 ---
 
